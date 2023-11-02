@@ -4,13 +4,13 @@
     Created Date: 01/11/2023
 
 ## Pre-requisites
-</ul>
-    <li>[Python 3.x](https://www.python.org/downloads/)</li>
-    <li>[Jupyter Notebook](https://jupyter.org/install)</li>
-    <li>[Anaconda (Optional)](https://www.anaconda.com/download)</li>
-    <li>[Pandas](https://pandas.pydata.org/docs/getting_started/install.html)</li>
-    <li>[Numpy](https://numpy.org/install/)</li>
-</ul>
+
+- [Python 3.x](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/install)
+- [Anaconda (Optional)](https://www.anaconda.com/download)
+- [Pandas](https://pandas.pydata.org/docs/getting_started/install.html)
+- [Numpy](https://numpy.org/install/)
+
 
 ## Resources
 https://www.geeksforgeeks.org/data-analysis-with-python/
